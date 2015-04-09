@@ -18,8 +18,9 @@ public class TestGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hejsan");
+        skit();
     }
-    private void skit(){
+    private static void skit(){
         System.out.println("Tjena");
     }
     
